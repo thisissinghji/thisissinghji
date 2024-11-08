@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **kumarsinghritik22@gmail.com**
 
-- ⚡ Fun fact **I am building something to take over Instagram, HAHA!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
