@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ritikdotcss" target="blank"><img src="https://img.shields.io/twitter/follow/thisissinghji?logo=twitter&style=for-the-badge" alt="thisissinghji" /></a> </p>
 
-- 🔭 I’m currently working on **Fact Flow**
+- 🔭 I’m currently working on <a href="https://linkero.vercel.app" target="blank">Linkero</a>
 
 - 🌱 I’m currently learning **next.js and typescript**
 
