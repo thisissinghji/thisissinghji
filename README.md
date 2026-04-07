@@ -3,7 +3,7 @@
 
 -  Checkout my Latest Project 👇👇👇
 
-- 🔭 I’m currently working on <a href="https://linkero.vercel.app" target="_blank">Linkero</a>
+- 🔭 I’m currently working on <a href="https://dsaiseasy.vercel.app" target="_blank">DsaIsEasy</a>
 
 - 🌱 I’m currently learning **next.js and typescript**
 
