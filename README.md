@@ -1,30 +1,95 @@
-<h1 align="center">Hi, I'm Ritik Singh</h1>
-<h3 align="center">A dedicated developer hailing from India.</h3>
+<!-- ══════════════════════  HEADER  ══════════════════════ -->
+<a href="https://github.com/thisissinghji">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0284C7&height=220&section=header&text=Ritik%20Singh&fontColor=F1F5F9&fontSize=54&fontAlignY=36&desc=Design%20Engineer%20%E2%80%94%20I%20sweat%20the%20pixels&descAlignY=58&descSize=18&animation=fadeIn" alt="Ritik Singh" width="100%" />
+</a>
 
--  Checkout my Latest Project 👇👇👇
-
-- 🔭 I’m currently working on <a href="https://dsaiseasy.vercel.app" target="_blank">DsaIsEasy</a>
-
-- 🌱 I’m currently learning **next.js and typescript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/thisissinghji](https://github.com/thisissinghji)
-
-- 💬 Ask me about **ReactJS, TailwindCSS, JavaScript**
-
-- 📫 How to reach me **kumarsinghritik22@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thisissinghji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisissinghji" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ritikkumarsingh22" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritikkumarsingh22" height="30" width="40" /></a>
-<a href="https://fb.com/thisissinghji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thisissinghji" height="30" width="40" /></a>
-<a href="https://instagram.com/ritik.css" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisissinghji" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kumarsinghritik22/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<kumarsinghritik22>/profile" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+%40+Nudgebee;Building+DsaIsEasy+%E2%80%94+DSA%2C+minus+the+fear;Learning+Next.js+%2B+TypeScript+in+public;Figma+%E2%86%92+pixel-perfect+UI" alt="what I do" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://x.com/ritikdotcss"><img src="https://img.shields.io/badge/@ritikdotcss-0D1117?style=flat-square&logo=x&logoColor=white" alt="x" /></a>
+  <a href="https://linkedin.com/in/ritikkumarsingh22"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="linkedin" /></a>
+  <a href="https://instagram.com/ritik.css"><img src="https://img.shields.io/badge/ritik.css-0D1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="instagram" /></a>
+  <a href="mailto:kumarsinghritik22@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=thisissinghji&style=flat-square&color=0EA5E9&label=visitors" alt="visitors" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisissinghji&show_icons=true&locale=en&layout=compact" alt="thisissinghji" /></p>
+<!-- ══════════════════════  IDENTITY (the stylesheet)  ══════════════════════ -->
 
+```css
+/* ritik.css — who am I, as a ruleset */
+:root {
+  --name:            "Ritik Singh";
+  --role:            design-engineer;
+  --based-in:        India;
+  --currently:       "Frontend @ Nudgebee";
+  --building:        "DsaIsEasy";
+  --learning:        next-js, typescript;
+  --ask-me-about:    react, tailwind, ui-craft;
+  --obsessed-with:   pixel-perfection;
+}
+
+.ritik:hover { cursor: build; }
+```
+
+<!-- ══════════════════════  NOW BUILDING  ══════════════════════ -->
+
+### <samp>&gt;_ what I'm shipping right now</samp>
+
+- 🧩&nbsp; **[DsaIsEasy](https://dsaiseasy.vercel.app)** — making Data Structures & Algorithms actually approachable, one clean UI at a time.
+- 🛰️&nbsp; **Frontend @ [Nudgebee](https://nudgebee.com)** — crafting the dashboard for an AI-powered Kubernetes observability platform.
+- 🌱&nbsp; Levelling up on **Next.js + TypeScript**, in public — refactoring myself from `junior` to `engineer`.
+
+<!-- ══════════════════════  STACK  ══════════════════════ -->
+
+### <samp>&gt;_ the stack I reach for first</samp>
+
+<p>
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+</p>
+
+<sub><i>also comfortable with</i></sub><br/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Illustrator-0D1117?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
+</p>
+
+<!-- ══════════════════════  TROPHIES  ══════════════════════ -->
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thisissinghji&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" width="100%" />
+</p>
+
+<!-- ══════════════════════  STATS  ══════════════════════ -->
+
+### <samp>&gt;_ by the numbers</samp>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thisissinghji&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=thisissinghji&hide_border=true&background=00000000&stroke=38BDF8&ring=0EA5E9&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisissinghji&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%" />
+</p>
+
+<!-- ══════════════════════  SNAKE  ══════════════════════ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thisissinghji/thisissinghji/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/thisissinghji/thisissinghji/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<!-- ══════════════════════  FOOTER  ══════════════════════ -->
+
+<p align="center"><sub><code>.ritik { transition: junior → engineer 1s ease-in-out; } /* still compiling... */</code></sub></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,100:0D1117&height=120&section=footer" width="100%" alt="" />
