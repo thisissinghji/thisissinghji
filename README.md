@@ -62,18 +62,12 @@
   <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
 </p>
 
-<!-- ══════════════════════  TROPHIES  ══════════════════════ -->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thisissinghji&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" width="100%" />
-</p>
-
 <!-- ══════════════════════  STATS  ══════════════════════ -->
 
 ### <samp>&gt;_ by the numbers</samp>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thisissinghji&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-two-pearl-34.vercel.app/api?username=thisissinghji&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&include_all_commits=true&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=thisissinghji&hide_border=true&background=00000000&stroke=38BDF8&ring=0EA5E9&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
 </p>
 
